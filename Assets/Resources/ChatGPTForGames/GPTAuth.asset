@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5bcf566350476b342b633ec92a5f8a6e, type: 3}
+  m_Name: GPTAuth
+  m_EditorClassIdentifier: 
+  Model: 0
+  CompletionUrl: https://api.openai.com/v1/chat/completions
+  PrivateApiKey: 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
+  Organization: University of Pennsylvania - School of Medicine
